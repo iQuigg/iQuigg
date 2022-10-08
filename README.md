@@ -11,3 +11,9 @@
 <br />
 
 #
+
+### Stats
+
+![iQuigg's Github stats](https://github-readme-stats.vercel.app/api?username=iQuigg&show_icons=true&theme=gruvbox)
+
+#
