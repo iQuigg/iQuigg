@@ -1,4 +1,4 @@
-### Hiya, aspiring CyberSecurity learner
+### Hiya
 
 ---
 
